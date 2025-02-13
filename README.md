@@ -10,8 +10,8 @@ A modern and responsive real-time chat application built with React, Node.js, an
 
 ## 📸 Screenshots  
 ### Chat Interface  
-![Chat Screen](https://raw.githubusercontent.com/MDoosti1997/Fullstack-chat-app/main/Screenshot%20(1353).png)  
-
+[![Chat Screen](https://raw.githubusercontent.com/MDoosti1997/Fullstack-chat-app/main/Screenshot%20(1353).png)  
+](https://github.com/burakorkmez/fullstack-chat-app/raw/master/frontend/public/screenshot-for-readme.png)
 ### Sign Up Page  
 ![Sign Up Screen](https://raw.githubusercontent.com/MDoosti1997/Fullstack-chat-app/main/Screenshot%20(1356).png)  
 
