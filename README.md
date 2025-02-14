@@ -10,9 +10,14 @@ A modern and responsive real-time chat application built with React, Node.js, an
 
 ## 📸 Screenshots  
 ### Chat Interface  
-![Screenshot (1356)](https://github.com/user-attachments/assets/d96fc7ab-16b6-4433-a4b7-ee8383176b58)
-![Screenshot (1353)](https://github.com/user-attachments/assets/cc0eb0d1-9160-45fe-83a0-2802f9afe18e)
-![Screenshot (1358)](https://github.com/user-attachments/assets/06066d0e-3925-426a-a510-4299f71a2765)
+![Screenshot (1367)](https://github.com/user-attachments/assets/ce98b13d-b24c-479f-bdb1-a19ea854d9ec)
+![Screenshot (1368)](https://github.com/user-attachments/assets/61ef90b5-77e4-4c3d-9f3b-0005d7a5f6c7)
+![Screenshot (1370)](https://github.com/user-attachments/assets/7a6e27d3-8eae-48ef-a83a-0cab06488a34)
+![Screenshot (1371)](https://github.com/user-attachments/assets/c47d6cb7-d074-4740-a072-65365940d149)
+
+
+
+
 
 
 
